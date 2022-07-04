@@ -1,3 +1,6 @@
+Some of its features: Word Counting. Removing Extra spaces. Capitalizing the text of the document. Adding Lowercase and uppercase to the text. --kuldeep prakash,
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
